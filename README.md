@@ -1,5 +1,22 @@
 # Getting Started with Create React App
 
+![amazone-clone](https://user-images.githubusercontent.com/65335042/115344468-16547980-a1cb-11eb-97da-154da99dcd62.png)
+
+1.Any Code Editor prefered Vs Code<br>
+
+2.Must  install NodeJs<br>
+
+
+3.Just Pull this code to your editor<br>
+
+4.Go to terminal and run the following command<br>
+
+npm install axios redux redux-thunk body-parser npm install axios moment @material-ui/core @material-ui/icons @stripe/react-js react-currency-format react-router-dom<br>
+
+5.Go to localhost:3000<br>
+
+6.Demo : https://www.youtube.com/watch?v=nTOHt-oL-Yg&ab_channel=AlanBinu
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
