@@ -5,7 +5,6 @@
 1.Any Code Editor prefered Vs Code<br>
 
 2.Must  install NodeJs<br>
-3.
 
 
 3.Just Pull this code to your editor<br>
