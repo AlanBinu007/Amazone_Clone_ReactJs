@@ -11,7 +11,7 @@
 - Firebase Storage
 - React-Dom
 - React Redux
-- stripe payment
+- Stripe payment
 
 ## Features
 
