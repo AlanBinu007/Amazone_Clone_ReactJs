@@ -1,7 +1,7 @@
 
-# Merge - Video Chat for Online Interviews
+# Amazon - Clone using ReactJs
 
-**Project Link** - ***https://alanbinu-linkedin.web.app/***
+**Project Link** - ***https://alanbinu-ecommerce.web.app/***
 
 ## Tech We Used
 
